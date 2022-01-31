@@ -5,7 +5,10 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0a25ceb23dbf9fd335f07f95c717c58fb348d8bf
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
